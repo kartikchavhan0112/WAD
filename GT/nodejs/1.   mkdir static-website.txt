@@ -1,0 +1,6 @@
+1.   mkdir static-website
+2.   cd static-website
+3.   npm init -y
+4.   npm install express
+
+5.   node server.js

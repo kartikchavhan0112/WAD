@@ -1,0 +1,13 @@
+1.   npm install -g @angular/cli
+
+2.   ng new user-app
+
+3.   cd user-app
+
+4.   ng generate component register
+     ng generate component login
+     ng generate component profile
+
+
+5.   firstly locate in app flder
+     then type ng serve
